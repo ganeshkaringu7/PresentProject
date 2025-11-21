@@ -28,4 +28,4 @@ Minikube dashboard
 kubectl delete deployment mynginx
 kubectl delete service mynginx
 
-minikube stop
+minikube stop 
