@@ -1,8 +1,6 @@
 docker pull redis
 docker run --name my-redis -d redis
 docker images
-docker run --name my-redis -d redis
-docker images
 docker ps
 docker ps -a
 docker exec -it my-redis redis-cli
